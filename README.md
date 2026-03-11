@@ -550,7 +550,7 @@ Our most active contributors are welcome to join the maintainers team. If you ar
   </picture>
 </a>
 
-## License
+## Licenses
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
 
